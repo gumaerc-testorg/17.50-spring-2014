@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/17-50-introduction-to-comparative-politics-spring-2014/4b1c233b809ec964f091093620bf510e_17-50_classroom-1.jpg
+file: /media/courses/17-50-introduction-to-comparative-politics-spring-2014/4b1c233b809ec964f091093620bf510e_17-50_classroom-1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 17-50_classroom-1.jpg
 uid: 4b1c233b-809e-c964-f091-093620bf510e

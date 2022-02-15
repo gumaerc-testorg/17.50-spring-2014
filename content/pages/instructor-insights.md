@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 6c7aaf4e-7ef3-c2bb-db34-adde221493f6
 ---
@@ -38,22 +40,6 @@ There are no prerequisites for this course.
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Four rows of tables and chairs are surrounded by chalkboards on all sides.]({{< resource_file 4b1c233b-809e-c964-f091-093620bf510e >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a medium-sized classroom equipped with chalkboards.
-    
-    For this seminar, the tables and chairs were rearranged to encourage interaction amongst the participants.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
