@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06c3a5bc-1490-018b-af04-49d8a72bcb9d
 resourcetype: Document
 title: '17.50S14 Intro to Comparative Politcs: Paper Topics'
 uid: 717e28d4-3103-cece-7c56-fc3e9151f0a6

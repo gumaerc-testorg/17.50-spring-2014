@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6e656950-f20c-2da2-8048-9600ef56e312
 resourcetype: Other
 title: MIT17_50S14_Suffrage_World.xlsx
 uid: 77134d0d-2c91-aaa1-1bfc-6bde1c48124f

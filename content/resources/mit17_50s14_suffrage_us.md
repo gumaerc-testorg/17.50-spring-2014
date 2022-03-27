@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 6e656950-f20c-2da2-8048-9600ef56e312
 resourcetype: Other
 title: MIT17_50S14_Suffrage_US.xls
 uid: 5b602cd7-e131-fb80-5bea-e94c0199bb5b

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 06c3a5bc-1490-018b-af04-49d8a72bcb9d
 resourcetype: Document
 title: '17.50S14 Intro to Comparative Politics: Hints For Writing Papers'
 uid: d5e594b4-4ea6-558e-19a4-22c7e5751a68
