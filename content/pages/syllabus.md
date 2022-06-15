@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on what the class is about,
+  who should take it, course meeting times, prerequisites, readings, class participation,
+  activities, papers, the final exam, grading policy, and plagiarism clause.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -35,7 +38,7 @@ Readings total 80–120 pages per week and should take you about four hours to d
 
 For several sessions, you will have to identify readings yourselves. Aim for a total of 80–120 pages _per person_ per week. Because for some of these weeks, different team members will read different things (i.e., there will be only limited overlap), and teams may have as many as five members, a team might be reading up to 600 pages per week. Choose your readings carefully.
 
-For further detail, see the [Readings]({{< baseurl >}}/pages/readings) section.
+For further detail, see the {{% resource_link 6e656950-f20c-2da2-8048-9600ef56e312 "Readings" %}} section.
 
 Class Participation
 -------------------
@@ -52,7 +55,7 @@ In your formal presentations be sure to _practice_ and to time yourself. We enco
 Papers
 ------
 
-Due dates and assignments are listed in the [Calendar]({{< baseurl >}}/pages/calendar) section.
+Due dates and assignments are listed in the {{% resource_link ffebb96b-0743-22bf-1e5f-76372472aa25 "Calendar" %}} section.
 
 We would like to practice blind grading, so please do not include a title page or put your name in the footer; instead, put your name on a separate page after the paper. We ask that all papers be double-spaced and submitted in Times New Roman 12-point font. (Otherwise we learn people's fonts after the first paper, which defeats the purpose of blind grading.)
 
@@ -60,14 +63,14 @@ I will read a sample of the papers and the TA will read and grade all of them. I
 
 Extensive resources are available to you if you want help with writing, such as the [MIT Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/), the TA, the course website, and the instructor. Some hints for writing papers are attached; we urge you to internalize them.
 
-For further detail, please see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail, please see the {{% resource_link 06c3a5bc-1490-018b-af04-49d8a72bcb9d "Assignments" %}} section.
 
 Final Exam
 ----------
 
 There will be an open book final exam that will address some aspect of political and economic development in Iraq, based on issues we have covered during the semester. For instance, you may be asked to assess the desirability of certain institutional arrangements in Iraq (e.g., federalism). Alternatively, you may be asked to address the extent to which constitutional engineering can enhance Iraq's prospects for establishing and consolidating a democratic regime. The topic will be discussed in greater detail during the last week of classes.
 
-For further detail, please see the [Exams]({{< baseurl >}}/pages/exams) section.
+For further detail, please see the {{% resource_link d051701e-11c7-ba8a-9d77-bf0c8812f9e7 "Exams" %}} section.
 
 Grading Policy
 --------------
@@ -136,4 +139,4 @@ Class participation, with some attempt to take into account which individuals co
 Plagiarism Clause
 -----------------
 
-When writing a paper (or essay exam), you must identify the nature and extent of your intellectual indebtedness to the authors whom you have read or to anyone else from whom you have gotten ideas (e.g., classmates, invited lecturers, etc.). You can do so through footnotes, a bibliography, or some other kind of scholarly device. Failure to disclose your reliance on the research or thinking of others is **Plagiarism**, which is considered to be the most serious academic offense and will be treated as such. If you have any questions about how you should document the sources of your ideas, please ask your instructors before you submit your work. You should also consult ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)_ for guidance.
+When writing a paper (or essay exam), you must identify the nature and extent of your intellectual indebtedness to the authors whom you have read or to anyone else from whom you have gotten ideas (e.g., classmates, invited lecturers, etc.). You can do so through footnotes, a bibliography, or some other kind of scholarly device. Failure to disclose your reliance on the research or thinking of others is **Plagiarism**, which is considered to be the most serious academic offense and will be treated as such. If you have any questions about how you should document the sources of your ideas, please ask your instructors before you submit your work. You should also consult _[Academic Integrity at the Massachusetts Institute of Technology: A Handbook for Students (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf)_ for guidance.

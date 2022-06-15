@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/17-50-introduction-to-comparative-politics-spring-2014/ea7c8bb7adc9c9c85046f94acad0363a_17-50_stat-students.png
+file: /courses/17-50-introduction-to-comparative-politics-spring-2014/ea7c8bb7adc9c9c85046f94acad0363a_17-50_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
