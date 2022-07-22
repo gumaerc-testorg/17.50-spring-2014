@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, a list
+  of paper topics, and hints for writing papers and making presentations.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 06c3a5bc-1490-018b-af04-49d8a72bcb9d
 ---
@@ -29,11 +34,11 @@ Find an interesting article (or blog post, film, broadcast, etc.) on Iraq summar
 Papers
 ------
 
-[Paper topics (PDF)]({{< baseurl >}}/resources/mit17_50s14_papers)
+{{% resource_link 717e28d4-3103-cece-7c56-fc3e9151f0a6 "Paper topics (PDF)" %}}
 
 Helpful Hints
 -------------
 
-[Hints for Writing Papers (PDF)]({{< baseurl >}}/resources/mit17_50s14_writing_papers)
+{{% resource_link d5e594b4-4ea6-558e-19a4-22c7e5751a68 "Hints for Writing Papers (PDF)" %}}
 
-[Hints for Making Presentations (PDF)]({{< baseurl >}}/resources/mit17_50s14_presentations)
+{{% resource_link b711ca08-2309-a4e8-8943-ce52c5049aa0 "Hints for Making Presentations (PDF)" %}}

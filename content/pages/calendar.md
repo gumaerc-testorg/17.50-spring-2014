@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, activities, recitations,
+  and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ffebb96b-0743-22bf-1e5f-76372472aa25
 ---
 
 The table below features the topics discussed during the semester, as well as the graded activities.
 
-For further detail on the class activities and assignments, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail on the class activities and assignments, see the {{% resource_link 06c3a5bc-1490-018b-af04-49d8a72bcb9d "Assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -71,7 +75,7 @@ What is a state, and why have one? Process of state-building.
 
 ### In Recitation
 
-*   [Map Test (PDF)]({{< baseurl >}}/resources/mit17_50s14_map_test)
+*   {{% resource_link cb3a8eee-8d4e-a5bf-b860-f33de9738c7b "Map Test (PDF)" %}}
 *   What is a democracy, and why have one?
 
 
