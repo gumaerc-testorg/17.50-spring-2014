@@ -5,6 +5,7 @@ file: /courses/17-50-introduction-to-comparative-politics-spring-2014/77134d0d2c
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT17_50S14_Suffrage_World.xlsx
 uid: 77134d0d-2c91-aaa1-1bfc-6bde1c48124f
 ---
 This is a resource regarding Women's suffrage table (World).
-

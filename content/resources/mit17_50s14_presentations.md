@@ -5,6 +5,7 @@ file: /courses/17-50-introduction-to-comparative-politics-spring-2014/b711ca0823
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '17.50S14 Intro to Comparative Politcs: Presentation Hints'
 uid: b711ca08-2309-a4e8-8943-ce52c5049aa0
 ---
 This is a resource regarding Presentation Hints. 
-

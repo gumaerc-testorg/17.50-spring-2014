@@ -5,6 +5,7 @@ file: /courses/17-50-introduction-to-comparative-politics-spring-2014/5b602cd7e1
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT17_50S14_Suffrage_US.xls
 uid: 5b602cd7-e131-fb80-5bea-e94c0199bb5b
 ---
 This is a resource regarding Women's suffrage table (US).
-
