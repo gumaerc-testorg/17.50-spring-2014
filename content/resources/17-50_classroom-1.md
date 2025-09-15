@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/17-50-introduction-to-comparative-politics-spring-2014/4b1c233b809ec964f091093620bf510e_17-50_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/17-50-introduction-to-comparative-politics-spring-2014/4b1c233b809ec964f091093620bf510e_17-50_classroom-1.jpg
+file_size: 54887
 file_type: image/jpeg
 image_metadata:
   caption: ''

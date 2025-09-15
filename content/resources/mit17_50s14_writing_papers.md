@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This is a resource regarding Hints For Writing Papers. '
-file: /courses/17-50-introduction-to-comparative-politics-spring-2014/d5e594b44ea6558e19a422c7e5751a68_MIT17_50S14_Writing_Papers.pdf
+file: /ol-ocw-studio-app/courses/17-50-introduction-to-comparative-politics-spring-2014/d5e594b44ea6558e19a422c7e5751a68_MIT17_50S14_Writing_Papers.pdf
+file_size: 135121
 file_type: application/pdf
 learning_resource_types:
 - Assignments

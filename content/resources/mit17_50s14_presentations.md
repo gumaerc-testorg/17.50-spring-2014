@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This is a resource regarding Presentation Hints. '
-file: /courses/17-50-introduction-to-comparative-politics-spring-2014/b711ca082309a4e88943ce52c5049aa0_MIT17_50S14_Presentations.pdf
+file: /ol-ocw-studio-app/courses/17-50-introduction-to-comparative-politics-spring-2014/b711ca082309a4e88943ce52c5049aa0_MIT17_50S14_Presentations.pdf
+file_size: 124127
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This is a resource regarding Paper Topics. '
-file: /courses/17-50-introduction-to-comparative-politics-spring-2014/717e28d43103cece7c56fc3e9151f0a6_MIT17_50S14_Papers.pdf
+file: /ol-ocw-studio-app/courses/17-50-introduction-to-comparative-politics-spring-2014/717e28d43103cece7c56fc3e9151f0a6_MIT17_50S14_Papers.pdf
+file_size: 611110
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This is a resource regarding Women's suffrage table (US).
-file: /courses/17-50-introduction-to-comparative-politics-spring-2014/5b602cd7e131fb805beae94c0199bb5b_MIT17_50S14_Suffrage_US.xls
+file: /ol-ocw-studio-app/courses/17-50-introduction-to-comparative-politics-spring-2014/5b602cd7e131fb805beae94c0199bb5b_MIT17_50S14_Suffrage_US.xls
+file_size: 56320
 file_type: application/vnd.ms-excel
 learning_resource_types:
 - Readings
